@@ -1,0 +1,17 @@
+﻿  render.cpp
+D:\UF Study\Semester 2\Computer Graphic\raytracing\raytracing\raytracing\object.h(24,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\UF Study\Semester 2\Computer Graphic\raytracing\raytracing\raytracing\cast_ray.h(29,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UF Study\Semester 2\Computer Graphic\raytracing\raytracing\raytracing\render.cpp(21,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\UF Study\Semester 2\Computer Graphic\raytracing\raytracing\raytracing\render.cpp(35,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UF Study\Semester 2\Computer Graphic\raytracing\raytracing\raytracing\render.cpp(36,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UF Study\Semester 2\Computer Graphic\raytracing\raytracing\raytracing\render.cpp(37,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UF Study\Semester 2\Computer Graphic\raytracing\raytracing\raytracing\render.cpp(67,28): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\UF Study\Semester 2\Computer Graphic\raytracing\raytracing\raytracing\render.cpp(82,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\UF Study\Semester 2\Computer Graphic\raytracing\raytracing\raytracing\render.cpp(126,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UF Study\Semester 2\Computer Graphic\raytracing\raytracing\raytracing\render.cpp(127,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UF Study\Semester 2\Computer Graphic\raytracing\raytracing\raytracing\render.cpp(137,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\UF Study\Semester 2\Computer Graphic\raytracing\raytracing\raytracing\render.cpp(145,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UF Study\Semester 2\Computer Graphic\raytracing\raytracing\raytracing\render.cpp(146,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UF Study\Semester 2\Computer Graphic\raytracing\raytracing\raytracing\render.cpp(147,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UF Study\Semester 2\Computer Graphic\raytracing\raytracing\raytracing\render.cpp(162,30): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'glfw3.lib'
